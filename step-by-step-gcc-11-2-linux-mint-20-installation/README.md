@@ -42,11 +42,9 @@
 
 # Step-by-step – GCC 11.2 Linux Mint 20 Installation
 
-#### August 27, 2021 | By the+gnu+linux+evangelist
+**August 27, 2021 | By the+gnu+linux+evangelist**
 
-<br>
-
-## Page 1 · GNU/Linux Mint 20 Installing GCC 11.2 from Source – Quick-Start Guide
+## <br>Page 1 · GNU/Linux Mint 20 Installing GCC 11.2 from Source – Quick-Start Guide
 
 </div>
 
@@ -61,10 +59,9 @@ Finally, **GCC 11.2** includes several **New Features, Canges, and Fixes** that 
 
 [![Step-by-step – GCC 11.2 Linux Mint 20 Installation](intro/gnomePenguinLoveGnu.jpg)](intro/gnomePenguinLoveGnu.jpg, "Step-by-step – GCC 11.2 Linux Mint 20 Installation")
 
-<br>
 </div>
 
-### 1. Launching Terminal
+### <br>1. Launching Terminal
 
 Open a **Shell** Session
 (Press “Enter” to Execute Commands)
@@ -79,9 +76,9 @@ And Update Ubuntu Apt Repository:
 
     sudo apt update
 
-Authenticate with the User Admin Pass.<br>If Got “User is Not in Sudoers file” then see: How to Enable sudo.<br><br>
+Authenticate with the User Admin Pass.<br>If Got “User is Not in Sudoers file” then see: How to Enable sudo.
 
-### 2. Querying **System GCC**
+### <br>2. Querying **System GCC**
 
 First, find out what the actual System GCC
 Play:
@@ -93,15 +90,13 @@ Possibly to Check the current GCC version issue:
 
     gcc -v
 
-<br>
-
 <div align="middle">
 
-## Page 2 · Downloading GCC
+## <br>Page 2 · Downloading GCC
 
 </div>
 
-### 3. Downloading GCC 11.2
+### <br>3. Downloading GCC 11.2
 
 **Download GCC 11.2 Source Code for GNU/Linux**<br>
 [Here](https://bigsearcher.com/mirrors/gcc/releases/, "https://bigsearcher.com/mirrors/gcc/releases/") GCC 11.2 Source tar.gz
